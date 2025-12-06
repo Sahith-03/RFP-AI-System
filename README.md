@@ -1,6 +1,7 @@
 # AI-Powered RFP Management System
 
 [![Status](https://img.shields.io/badge/status-alpha-orange)](https://example.com) [![Node.js](https://img.shields.io/badge/Node.js-v18+-green)](https://nodejs.org/)
+
 A full‑stack intelligent procurement solution built with **React**, **Node.js**, and **Google Gemini AI**. This application streamlines the Request for Proposal (RFP) lifecycle by letting users generate requirements from natural language, automatically email vendors, parse unstructured email replies into structured data, and receive AI‑driven vendor recommendations.
 
 ---

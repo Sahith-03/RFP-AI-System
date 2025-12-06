@@ -1,0 +1,5 @@
+# Personal GitHub account
+Host github.com-personal
+    HostName github.com
+    User git
+    IdentityFile /c/Users/6POINT3_FA0001/.ssh/id_github_personal
